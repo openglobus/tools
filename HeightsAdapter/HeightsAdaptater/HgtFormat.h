@@ -2,6 +2,7 @@
 #define _DEMFORMAT_H_
 
 #include "vec3.h"
+#include <cmath>
 #include <stdlib.h>
 #include <string.h>
 
